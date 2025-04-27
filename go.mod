@@ -1,4 +1,4 @@
-module example.com/gorm
+module github.com/Vuuouiwons/go-orm-gorm
 
 go 1.24.2
 
